@@ -1,2 +1,2 @@
 # SIH
-This is ny first repository
+This is my first repository
