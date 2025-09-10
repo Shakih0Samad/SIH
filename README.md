@@ -1,2 +1,2 @@
 # SIH
-This is my first repository
+This is my first repository Auther-Shaikh Samad
